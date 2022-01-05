@@ -13,11 +13,13 @@ body {
 }
 .side-a{
     flex: 1 0 auto;
+    
 }
 
 .side-b {
     flex: 1 0 auto;
 }
+
 
 .middle {
     flex: 2 1 auto;
@@ -40,7 +42,7 @@ body {
 .intro-content {
     display:flex;
     flex-direction: row;
-    
+
 }
 #intro {
     width: 25%;
